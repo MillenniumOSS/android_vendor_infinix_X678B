@@ -4,9 +4,10 @@
 
 soong_namespace {
     imports: [
-        "device/tecno/LH7n",
+        "device/infinix/X678B",
         "hardware/mediatek",
         "hardware/mediatek/libmtkperf_client",
+        "hardware/mediatek/libaedv",
         "hardware/millennium",
     ],
 }
