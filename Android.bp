@@ -26641,7 +26641,6 @@ cc_prebuilt_binary {
                 "proprietary/vendor/bin/hw/android.hardware.media.c2@1.2-mediatek-64b",
             ],
             shared_libs: [
-                "libstagefright_foundation-v33",
                 "libbase",
                 "liblog",
                 "libcodec2",
